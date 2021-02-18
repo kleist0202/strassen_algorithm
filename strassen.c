@@ -19,6 +19,8 @@ int main(){
 
     srand(time(NULL));
 
+    int N;
+
     printf("Podaj rozmiary macierzy A and B: ");
     scanf("%i", &N);
 
