@@ -17,4 +17,4 @@ run:
 plot:
 	python3 $(SRCDIR)/strassen_plot.py
 
-.PHONY: all run
+.PHONY: all run plot
